@@ -1,5 +1,1 @@
-## 🏆 GitHub Trophy / Thành tích GitHub
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=NHT404&theme=dracula&no-frame=true&row=2&column=4)
-
-Các thành tựu này được GitHub thống kê dựa trên số lượng commit, repo, và hoạt động trong cộng đồng.
+## 🏆 Thành tích GitHub / GitHub Trophy ![Trophy](https://github-profile-trophy.vercel.app/?username=NHT404&theme=dracula&no-frame=true&row=2&column=4) --- ## 🛡️ Huy hiệu / Badges ![GitHub followers](https://img.shields.io/github/followers/NHT404?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/NHT404?affiliations=OWNER%2CCOLLABORATOR&style=social) ![Last commit](https://img.shields.io/github/last-commit/NHT404/NHT404?label=Last%20update) ![Views](https://komarev.com/ghpvc/?username=NHT404&label=PROFILE+VIEWS&color=0e75b6&style=flat) 
